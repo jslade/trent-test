@@ -1,2 +1,3 @@
 # trent-test
-xxx
+
+Static website for Trent's portfolio.
